@@ -1,3 +1,3 @@
 # demo
 This is my first git repository.<br>
-Author- Himanshu {Popli10}
+Author- Himanshu Popli10
